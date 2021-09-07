@@ -1,4 +1,4 @@
-# ML-HW
+# Machine Learning Homeworks
 ML homeworks
 
 Implenetation of different machine learning and deep learning models in Python
